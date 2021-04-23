@@ -1,2 +1,1 @@
-# hello_world
-Test repository
+This is my first github test.
